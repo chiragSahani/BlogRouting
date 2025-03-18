@@ -1,0 +1,45 @@
+/* Write your CSS code here */
+.blog-container {
+  padding: 20px;
+}
+
+.blog-info {
+  width: 100%;
+}
+
+.blog-details-title {
+  color: #000000;
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.author-details {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.author-pic {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  margin-right: 12px;
+}
+
+.details-author-name {
+  color: #8e8e8e;
+  font-size: 16px;
+  margin: 0;
+}
+
+.blog-image {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+
+.blog-content {
+  color: #2f4f4f;
+  font-size: 16px;
+  line-height: 1.6;
+}

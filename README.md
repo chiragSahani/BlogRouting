@@ -57,13 +57,7 @@ To execute tests, run:
 npm test
 ```
 
-## 🤝 Contributing
 
-We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) to understand our code of conduct and the process for submitting pull requests.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
